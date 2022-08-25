@@ -1,3 +1,9 @@
+[![Current Version](https://vsmarketplacebadge.apphb.com/version-short/cnblogs.vscode-cnb.svg)](https://marketplace.visualstudio.com/items?itemName=cnblogs.vscode-cnb&ssr=false#overview)
+[![](https://vsmarketplacebadge.apphb.com/downloads-short/cnblogs.vscode-cnb.svg)](https://marketplace.visualstudio.com/items?itemName=cnblogs.vscode-cnb&ssr=false#overview)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/cnblogs/vscode-cnb/Build%20and%20check%20the%20code%20format/main)](https://github.com/cnblogs/vscode-cnb)
+[![GitHub](https://img.shields.io/github/license/cnblogs/vscode-cnb)](https://github.com/cnblogs/vscode-cnb/blob/main/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues-raw/cnblogs/vscode-cnb)](https://github.com/cnblogs/vscode-cnb/issues)
+
 **目录**
 
 - [简介](#简介)
@@ -70,7 +76,7 @@
 
 - vscode 命令面板 `Cnblogs: 拉取远程更新`，此时会尝试去寻找当前正在编辑的文件对其进行更新
   
-  <kbd><img src="https://img2022.cnblogs.com/blog/1596066/202204/1596066-20220401184013947-1481430186.png" height="550"></kbd>
+  <kbd><img src="https://img2022.cnblogs.com/blog/1596066/202204/1596066-20220401184013947-1481430186.png?v=20220424" height="550"></kbd>
 
 在更新本地文件之前会弹出确认对话框，因为此操作会覆盖本地文件的内容，所以请谨慎使用。
 
@@ -108,7 +114,7 @@
 
 同时，也可以在博客园随笔列表视图，文件列表视图和 markdown 编辑器中上下文菜单中可以通过**博文设置**命令打开博文设置面板
 
-<kbd><img src="https://img2022.cnblogs.com/blog/1596066/202203/1596066-20220331113211016-1457564407.png" height="550"></kbd>
+<kbd><img src="https://img2022.cnblogs.com/blog/1596066/202203/1596066-20220331113211016-1457564407.png?v=202204242" height="550"></kbd>
 
 ## vscode 版本要求
 
